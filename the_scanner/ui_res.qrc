@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/3dfig.png</file>
+        <file>images/3dfig_color.png</file>
+        <file>images/1476926247_New.png</file>
+        <file>images/1476926622_Open.png</file>
+        <file>images/1476926747_floppy_disk_save.png</file>
+        <file>images/1476928407_water3.png</file>
+        <file>images/1476928535_sign-emergency-code-sos_50.png</file>
+        <file>images/1476958047_player_record.png</file>
+        <file>images/points.png</file>
+        <file>images/cube.png</file>
+        <file>images/bunny_icp.PNG</file>
+        <file>images/box.gif</file>
+        <file>images/play-icon.png</file>
+    </qresource>
+</RCC>
